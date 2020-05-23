@@ -1,4 +1,4 @@
-From tomcat:8.0
+FROM tomcat:8.0
 
 MAINTAINER devops202003@gmail.com
 
